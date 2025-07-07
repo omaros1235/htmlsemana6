@@ -26,11 +26,12 @@ h2 {
     margin-bottom: 15px;
 }
 
-label {
+label  {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
-    color: #555;
+    color: #461b71;
+    
 }
 
 input[type="text"],
